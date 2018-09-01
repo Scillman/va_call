@@ -2,7 +2,7 @@ global va_call
 
 
 ;
-; Read Only data section of an .exe file.
+; Read/Write data section of an .exe file.
 ;
 section .data
     backup      dd (-1)             ; Used to store the return address
