@@ -1,2 +1,2 @@
 # va_call
-A sample demonstarting how to call a function from C++ using its virtual address.
+An example demonstrating how to call a function from C++ using its virtual address.
